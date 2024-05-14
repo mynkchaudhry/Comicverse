@@ -48,7 +48,7 @@ export function Bubble({ children, onChange }: {
 
           // Adjust font size here
           `text-base md:text-large`, // Increase font size for larger
-          `print:text-15xs`, // Font size for print view
+          `print:text-20xs`, // Font size for print view
 
           // Add other Tailwind classes as needed
         )}
